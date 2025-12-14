@@ -19,7 +19,6 @@ This guide has been tested on systems with the AMD Ryzen AI Max+ 395:
 | System | Notes |
 |--------|-------|
 | **Framework Desktop** | Framework's Strix Halo desktop system |
-| **GMKTEC EVO-X2** | Compact mini PC with Strix Halo APU |
 
 The configuration should work on any system using the Ryzen AI Max+ 395 (or similar Strix Halo APUs), though BIOS menu locations may vary by manufacturer.
 
